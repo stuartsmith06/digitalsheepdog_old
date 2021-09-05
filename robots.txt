@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://stuartsmith06.github.io/digitalsheepdog/sitemap.xml
