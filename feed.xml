@@ -3,7 +3,7 @@
     <title>digital sheepdog</title>
     <link href="https://stuartsmith06.github.io/digitalsheepdog/feed.xml" rel="self" />
     <link href="https://stuartsmith06.github.io/digitalsheepdog" />
-    <updated>2021-09-05T16:13:48-04:00</updated>
+    <updated>2021-09-06T11:26:13-04:00</updated>
     <author>
         <name>Stuart</name>
     </author>
@@ -193,15 +193,16 @@
             <category term=" Route53"/>
             <category term=" CloudFront"/>
 
-        <updated>2021-04-30T12:59:41-04:00</updated>
+        <updated>2021-09-06T11:26:13-04:00</updated>
             <summary>
                 <![CDATA[
-                     If you’re reading this post, I suspect you were searching specifically on how to host a static website in&hellip;
+                    Update: For several reasons, I have "re-homed" this blog site and will be posting a new article about this soon.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://stuartsmith06.github.io/digitalsheepdog/media/posts/9/aws_logo.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://stuartsmith06.github.io/digitalsheepdog/media/posts/9/responsive/aws_logo-xs.jpeg 300w ,https://stuartsmith06.github.io/digitalsheepdog/media/posts/9/responsive/aws_logo-sm.jpeg 480w ,https://stuartsmith06.github.io/digitalsheepdog/media/posts/9/responsive/aws_logo-md.jpeg 768w"  alt="" width="139" height="139"></figure>
+                <p>Update:  For several reasons, I have "re-homed" this blog site and will be posting a new article about this soon.</p>
+<figure class="post__image"><img loading="lazy"  src="https://stuartsmith06.github.io/digitalsheepdog/media/posts/9/aws_logo.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://stuartsmith06.github.io/digitalsheepdog/media/posts/9/responsive/aws_logo-xs.jpeg 300w ,https://stuartsmith06.github.io/digitalsheepdog/media/posts/9/responsive/aws_logo-sm.jpeg 480w ,https://stuartsmith06.github.io/digitalsheepdog/media/posts/9/responsive/aws_logo-md.jpeg 768w"  alt="" width="139" height="139"></figure>
 <p>If you’re reading this post, I suspect you were searching specifically on how to host a static website in AWS S3.  This guide will also show you how to set up a static content site with the following characteristics:</p>
 <ul>
 <li>Site content is hosted in an S3 bucket that is <strong>not</strong> publicly accessible</li>
