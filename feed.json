@@ -15,14 +15,14 @@
             "url": "https://stuartsmith06.github.io/digitalsheepdog/moving-this-site.html",
             "title": "Moving this site",
             "summary": "You may have heard over the past few months some of the \"cancel culture\" events news. In particular, Amazon and&hellip;",
-            "content_html": "<p>You may have heard over the past few months some of the \"cancel culture\" events news.  In particular, Amazon and the AWS platform made a decision to r<a href=\"https://www.foxbusiness.com/technology/after-capitol-riot-amazon-employees-demand-aws-stop-hosting-parler-for-posts-inciting-violence\" target=\"_blank\" rel=\"noopener noreferrer\">emove some conservative platforms</a> such as Parler.  While I don't really want to get into the why's and wherefore's of the AWS decision, I emphatically disagree with the decision.  Regardless if you're conservative, liberal, or middle-of-the-road from a political perspective, everyone should disagree with this decision.  That being said, I have decided to move all the domain names and sites I have hosted on AWS elsewhere.   </p>\n<p>This site now actually \"lives\" on GitHub and is front-ended with CloudFront DNS and CloudFront Pages!</p>\n<p> </p>",
+            "content_html": "<p>You may have heard over the past few months some of the \"cancel culture\" events news.  In particular, Amazon and the AWS platform made a decision to <a href=\"https://www.foxbusiness.com/technology/after-capitol-riot-amazon-employees-demand-aws-stop-hosting-parler-for-posts-inciting-violence\" target=\"_blank\" rel=\"noopener noreferrer\">remove some conservative platforms</a> such as Parler.  While I don't really want to get into the why's and wherefore's of the AWS decision, I emphatically disagree with the decision.  Regardless if you're conservative, liberal, or middle-of-the-road from a political perspective, everyone should disagree with this decision.  That being said, I have decided to move all the domain names and sites I have hosted on AWS elsewhere.   </p>\n<p>This site now actually \"lives\" on GitHub and is front-ended with CloudFront DNS and CloudFront Pages!</p>\n<p>This option of tech is completely free (with AWS I was paying a nominal charge for S3 storage, a CloudFront distribution, and TLS certificate), with the exception the domain registration.  The domain registration is actually cheaper ($8.00 with CloudFlare vs. $12.00 with AWS Route53), and arguably there are more security features with CloudFlare.  I'm also already using CloudFlare's <a href=\"https://stuartsmith06.github.io/digitalsheepdog/dns-what-it-is-and-why-you-should-change.html\">DNS on my home network</a>.</p>",
             "author": {
                 "name": "Stuart"
             },
             "tags": [
             ],
             "date_published": "2021-09-06T11:37:56-04:00",
-            "date_modified": "2021-09-06T16:18:23-04:00"
+            "date_modified": "2021-09-06T16:25:04-04:00"
         },
         {
             "id": "https://stuartsmith06.github.io/digitalsheepdog/unfolding-of-a-scam.html",
