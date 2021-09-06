@@ -3,12 +3,34 @@
     <title>digital sheepdog</title>
     <link href="https://stuartsmith06.github.io/digitalsheepdog/feed.xml" rel="self" />
     <link href="https://stuartsmith06.github.io/digitalsheepdog" />
-    <updated>2021-09-06T11:28:00-04:00</updated>
+    <updated>2021-09-06T11:37:56-04:00</updated>
     <author>
         <name>Stuart</name>
     </author>
     <id>https://stuartsmith06.github.io/digitalsheepdog</id>
 
+    <entry>
+        <title>Moving this site</title>
+        <author>
+            <name>Stuart</name>
+        </author>
+        <link href="https://stuartsmith06.github.io/digitalsheepdog/moving-this-site.html"/>
+        <id>https://stuartsmith06.github.io/digitalsheepdog/moving-this-site.html</id>
+
+        <updated>2021-09-06T11:37:56-04:00</updated>
+            <summary>
+                <![CDATA[
+                    You may have heard over the past few months some of the "cancel culture" events news. In particular, Amazon and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>You may have heard over the past few months some of the "cancel culture" events news.  In particular, Amazon and the AWS platform made a decision to r<a href="https://www.foxbusiness.com/technology/after-capitol-riot-amazon-employees-demand-aws-stop-hosting-parler-for-posts-inciting-violence" target="_blank" rel="noopener noreferrer">emove some conservative platforms</a> such as Parler.  While I don't really want to get into the why's and wherefore's of the AWS decision, I emphatically disagree with the decision.  Regardless if you're conservative, liberal, or middle-of-the-road from a political perspective, everyone should disagree with this decision.  That being said, I have decided to move all the domain names and sites I have hosted on AWS elsewhere.   </p>
+<p>This site now actually "lives" on GitHub and is front-ended with CloudFront DNS and CloudFront Pages!</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Unfolding of a Scam</title>
         <author>
